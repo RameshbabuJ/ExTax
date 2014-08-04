@@ -11,6 +11,7 @@ namespace IPCDemo.Controllers
         public ActionResult Index()
         {
             //Change 1 in the master branch
+            //Change 1 in Branch 1
             return View();
         }
 
